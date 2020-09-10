@@ -1,9 +1,0 @@
-#EXTM3U
- 
-#####== xindex ==#####
- 
-#EXTINF:-1 group-title="index" tvg-logo=">", x100pezd.m3u8
- https://github.com/jodilife/ini/blob/master/x100pezd.m3u8
-#EXTINF:-1 group-title="" tvg-logo=">", x5g380g.m3u8
- https://github.com/jodilife/ini/blob/master/x5g380g.m3u8
-
